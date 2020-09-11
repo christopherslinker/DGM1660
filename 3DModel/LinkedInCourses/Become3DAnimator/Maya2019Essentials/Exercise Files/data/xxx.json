@@ -1,0 +1,3776 @@
+{
+    "animationLength": 120.0, 
+    "nulls": {}, 
+    "animationStart": 1.0, 
+    "projectName": "", 
+    "cameras": {
+        "camera1": {
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "focalLength": 35.0, 
+            "horizontalFilmPlane": 35.999928, 
+            "position": [
+                0.0, 
+                0.0, 
+                19.992860720921193
+            ], 
+            "rotation": [
+                -0.0, 
+                0.0, 
+                -0.0
+            ], 
+            "animation": {
+                "1": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "2": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "3": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "4": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "5": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "6": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "7": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "8": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "9": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "10": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "11": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "12": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "13": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "14": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "15": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "16": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "17": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "18": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "19": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "20": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "21": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "22": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "23": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "24": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "25": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "26": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "27": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "28": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "29": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "30": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "31": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "32": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "33": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "34": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "35": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "36": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "37": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "38": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "39": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "40": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "41": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "42": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "43": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "44": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "45": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "46": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "47": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "48": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "49": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "50": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "51": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "52": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "53": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "54": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "55": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "56": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "57": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "58": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "59": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "60": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "61": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "62": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "63": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "64": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "65": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "66": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "67": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "68": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "69": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "70": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "71": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "72": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "73": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "74": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "75": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "76": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "77": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "78": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "79": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "80": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "81": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "82": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "83": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "84": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "85": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "86": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "87": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "88": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "89": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "90": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "91": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "92": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "93": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "94": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "95": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "96": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "97": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "98": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "99": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "100": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "101": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "102": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "103": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "104": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "105": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "106": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "107": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "108": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "109": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "110": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "111": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "112": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "113": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "114": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "115": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "116": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "117": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "118": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "119": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }, 
+                "120": {
+                    "focalLength": 35.0, 
+                    "position": [
+                        0.0, 
+                        0.0, 
+                        19.992860720921193
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "horizontalFilmPlane": 35.999928
+                }
+            }
+        }
+    }, 
+    "frameRate": 24.0, 
+    "lights": {}, 
+    "solids": {
+        "pSphere1": {
+            "position": [
+                -1.2167927783981831, 
+                0.0, 
+                -0.4547882689359177
+            ], 
+            "rotation": [
+                -0.0, 
+                0.0, 
+                -0.0
+            ], 
+            "scale": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "animation": {
+                "1": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "2": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "3": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "4": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "5": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "6": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "7": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "8": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "9": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "10": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "11": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "12": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "13": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "14": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "15": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "16": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "17": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "18": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "19": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "20": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "21": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "22": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "23": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "24": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "25": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "26": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "27": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "28": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "29": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "30": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "31": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "32": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "33": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "34": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "35": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "36": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "37": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "38": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "39": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "40": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "41": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "42": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "43": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "44": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "45": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "46": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "47": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "48": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "49": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "50": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "51": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "52": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "53": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "54": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "55": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "56": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "57": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "58": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "59": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "60": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "61": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "62": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "63": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "64": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "65": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "66": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "67": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "68": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "69": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "70": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "71": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "72": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "73": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "74": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "75": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "76": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "77": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "78": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "79": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "80": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "81": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "82": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "83": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "84": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "85": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "86": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "87": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "88": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "89": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "90": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "91": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "92": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "93": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "94": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "95": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "96": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "97": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "98": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "99": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "100": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "101": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "102": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "103": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "104": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "105": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "106": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "107": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "108": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "109": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "110": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "111": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "112": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "113": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "114": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "115": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "116": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "117": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "118": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "119": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "120": {
+                    "position": [
+                        -1.2167927783981831, 
+                        0.0, 
+                        -0.4547882689359177
+                    ], 
+                    "rotation": [
+                        -0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }
+            }
+        }
+    }, 
+    "resolution": [
+        960, 
+        540
+    ]
+}
